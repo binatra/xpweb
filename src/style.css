@@ -1,0 +1,36 @@
+body{
+    background-color: #231F20;
+}
+.navbar .navbar-dark{
+    background-color: #282425;
+}
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand {
+    float:none;
+}
+
+.row{
+    height: 700px;
+}
+
+#banner{
+    background-color: #282425;
+}
+
+footer{
+    padding: 15px 0px 0px 0px;
+}
+hr{
+    background-color: #4c4446;  
+    text-align: center;
+    width: 65%;
+}
+#copyright{
+    color: beige;
+    text-align: center;
+}
